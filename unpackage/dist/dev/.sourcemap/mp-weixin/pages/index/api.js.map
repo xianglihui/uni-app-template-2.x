@@ -1,0 +1,1 @@
+{"version":3,"file":"api.js","sources":["pages/index/api.js"],"sourcesContent":["import request from \"@/utils/request/index.js\"\r\n\r\nexport function test() {\r\n    return request.request({\r\n        url: '/items',\r\n    })\r\n}\r\n"],"names":["request"],"mappings":";;AAEO,SAAS,OAAO;AACnB,SAAOA,oBAAAA,QAAQ,QAAQ;AAAA,IACnB,KAAK;AAAA,EACb,CAAK;AACL;;"}

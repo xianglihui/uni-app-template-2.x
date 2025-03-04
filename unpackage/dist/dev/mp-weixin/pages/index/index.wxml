@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="{{a}}"></image><view class="text-area"><text class="title">{{b}}123</text></view></view>

@@ -1,0 +1,1 @@
+{"version":3,"file":"storeVariable.js","sources":["common/js/storeVariable.js"],"sourcesContent":["export  const USERINFO = \"USERINFO\";\nexport  const TOKEN = \"TOKEN\";\nexport  const OPENID = \"OPENID\";\n"],"names":[],"mappings":";AAAa,MAAC,WAAW;AACZ,MAAC,QAAQ;AACT,MAAC,SAAS;;;;"}
